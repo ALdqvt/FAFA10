@@ -1,2 +1,2 @@
 # FAFA10
-Projekt i MatLab med inriktning på harmonisk oscillation i molekyler.
+Projekt i matlab med inriktning på harmonisk oscillation i molekyler.
